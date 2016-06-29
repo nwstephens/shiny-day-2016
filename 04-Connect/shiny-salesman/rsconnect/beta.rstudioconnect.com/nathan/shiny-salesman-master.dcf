@@ -1,0 +1,9 @@
+name: shiny-salesman-master
+account: nathan
+server: beta.rstudioconnect.com
+appId: 1179
+bundleId: 2345
+url: https://beta.rstudioconnect.com/nathan/shiny-salesman-master/
+when: 1467142429.86097
+asMultiple: FALSE
+asStatic: FALSE
